@@ -6,5 +6,7 @@
 # installation:
 
 git clone https://github.com/Josiah-tan/.dotfiles.git ~/.dotfiles
+
 cd .dotfiles
+
 git submodule update --init
