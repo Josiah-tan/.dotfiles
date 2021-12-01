@@ -1,0 +1,10 @@
+~/
+~/.dotfiles/nvim/.vim/
+~/.dotfiles/
+/mnt/c/Users/josia/AppData/Local/plover/plover/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/UNI/year_2/2_semester/todo/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/UNI/year_2/2_semester/amme3162_materials/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/UNI/year_2/2_semester/elec2104/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/UNI/quotes/
+
+

@@ -1,0 +1,9 @@
+~/Desktop/josiah/uni/elec2104/
+~/Desktop/josiah/uni/amme3162_materials/
+~/Desktop/josiah/uni/amme2301_solids/
+~/.dotfiles/
+~/.dotfiles/quick_projects_linux/.config/.quick_projects/
+~/.dotfiles/quick_projects_wsl/.config/.quick_projects/
+~/.dotfiles/plover/.config/plover/
+~/.dotfiles/nvim/.vim/
+~/Desktop/josiah/neovim/quick_projects/
