@@ -1,3 +1,4 @@
+~/Desktop/josiah/neovim/experiments/
 ~/Desktop/josiah/uni/elec2104/
 ~/Desktop/josiah/uni/amme3162_materials/
 ~/Desktop/josiah/uni/amme2301_solids/
