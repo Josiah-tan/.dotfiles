@@ -1,3 +1,4 @@
+/mnt/c/Users/josia/Desktop/Josiah_Folder/steno/vim_plover_clippy/
 ~/
 ~/.dotfiles/nvim/.vim/
 ~/.dotfiles/
