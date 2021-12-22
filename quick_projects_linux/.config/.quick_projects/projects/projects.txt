@@ -1,6 +1,9 @@
+~/Desktop/josiah/uni/mech2400_design/mech2400-D-assignment
+~/Desktop/josiah/work/resumes/
+~/Desktop/josiah/work/jll/experiment/
+~/Desktop/josiah/neovim/experiments/git_worktree/
 ~/Desktop/josiah/neovim/quick_projects/assets/
 ~/Desktop/josiah/neovim/quick_projects/
-~/Desktop/josiah/work/resumes/josiah_templates/
 ~/org/
 ~/Desktop/josiah/neovim/experiments/
 ~/Desktop/josiah/uni/elec2104/

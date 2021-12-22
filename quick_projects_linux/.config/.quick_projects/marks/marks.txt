@@ -1,7 +1,3 @@
-./projects.txt@~/Desktop/josiah/neovim/quick_projects/assets/
-./projects.txt@~/Desktop/josiah/neovim/quick_projects/
-./projects.txt@~/.dotfiles/quick_projects_linux/.config/.quick_projects/
-./projects.txt@~/org/
-./projects.txt@~/.dotfiles/nvim/.vim/
-./projects.txt@~/.dotfiles/
 ./projects.txt@~/Desktop/josiah/uni/elec2104/
+./projects.txt@~/Desktop/josiah/uni/amme2301_solids/
+./projects.txt@~/Desktop/josiah/work/resumes/
