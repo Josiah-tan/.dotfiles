@@ -7,3 +7,4 @@
 [submodule "nvim/.config/nvim"]
 	path = nvim/.config/nvim
 	url = git@github.com:Josiah-tan/nvimconfig.git
+	branch = origin
