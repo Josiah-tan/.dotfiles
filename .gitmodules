@@ -1,9 +1,9 @@
-[submodule "nvim/.config/nvim"]
-	path = nvim/.config/nvim
-	url = https://github.com/Josiah-tan/nvimconfig.git
 [submodule "nvim/.vim"]
 	path = nvim/.vim
 	url = https://github.com/Josiah-tan/vimconfig.git
 [submodule "plover/.config/plover"]
 	path = plover/.config/plover
 	url = https://github.com/Josiah-tan/plover_dict.git
+[submodule "nvim/.config/nvim"]
+	path = nvim/.config/nvim
+	url = git@github.com:Josiah-tan/nvimconfig.git
