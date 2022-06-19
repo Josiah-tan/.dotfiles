@@ -1,3 +1,4 @@
-./projects.txt@~/Desktop/josiah/uni/elec2104/
-./projects.txt@~/Desktop/josiah/uni/amme2301_solids/
-./projects.txt@~/Desktop/josiah/work/resumes/
+projects.txt@~/org/
+projects.txt@~/Desktop/josiah/uni/amme3500/design_project_1/
+projects.txt@~/Desktop/josiah/uni/elec3404/
+projects.txt@~/Desktop/josiah/uni/elec3204/buck/
