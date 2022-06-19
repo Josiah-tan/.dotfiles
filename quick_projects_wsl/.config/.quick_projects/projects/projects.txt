@@ -1,0 +1,9 @@
+/mnt/c/Users/josia/Desktop/Josiah_Folder/uni/year_3/semester_1/design_elec3404/project/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/uni/year_3/semester_1/design_elec3404/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/work/work-Engineering/2022/cochlear/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/work/work-Engineering/2022/jll/onedrive/Analysis/Packages/WaterMarketsAnalysis/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/work/work-Engineering/2022/jll/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/uni/year_3/enrolment/
+~/.config/plover/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/steno/logs/
+~/.dotfiles/quick_projects_wsl/.config/.quick_projects/

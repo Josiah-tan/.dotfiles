@@ -1,3 +1,0 @@
-~/.config/plover/
-/mnt/c/Users/josia/Desktop/Josiah_Folder/steno/logs/
-~/.dotfiles/quick_projects_wsl/.config/.quick_projects/
