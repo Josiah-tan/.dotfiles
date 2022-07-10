@@ -1,3 +1,8 @@
+~/org/
+~/Downloads/
+~/work/Robotic-waste-sorting-project/CoppeliaSim-Kuka-Arm-Simulation/CoppeliaSim-Python-Client/
+~/work/Robotic-waste-sorting-project/CoppeliaSim-Kuka-Arm-Simulation/CoppeliaSim-Kuka-Arm-Simulation/New\ simulation/
+~/work/Robotic-waste-sorting-project/
 ~/.vim/
 ~/.config/plover/vim/
 ~/.dotfiles/
