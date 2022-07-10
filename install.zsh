@@ -20,7 +20,7 @@ git -C ./plover/.config/plover/vim/plover_python_dictionary_lib submodule update
 
 stow plover
 
-##
+## installing dependencies for Plover
 
 if [[ "whoami" -eq "chicken" ]]
 then
@@ -41,3 +41,13 @@ elif [[ "whoami" -eq "josiah" ]]
 then
 	stow quick_projects_linux
 fi
+
+
+## lsp
+https://github.com/sumneko/lua-language-server/wiki/Build-and-Run	
+# pylsp
+pip install python-lsp-server
+# pyright
+pip install pyright
+# clangd
+https://clangd.llvm.org/installation.html
