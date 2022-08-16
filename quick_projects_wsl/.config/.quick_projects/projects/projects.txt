@@ -1,3 +1,10 @@
+/mnt/c/Users/josia/Desktop/Josiah_Folder/work/work-Engineering/2022/AI_robotics/V-REP-Inverse-Kinematics/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/work/work-Engineering/2022/AI_robotics/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/work/work-Engineering/2022/AI_robotics/Robotic-waste-sorting-project/CoppeliaSim-Kuka-Arm-Simulation/CoppeliaSim-Python-Client/
+/mnt/c/Program\ Files/CoppeliaRobotics/CoppeliaSimEdu/scenes/experimental/
+/mnt/c/Program\ Files/CoppeliaRobotics/CoppeliaSimEdu/scenes/firstDemonstrationYoutube/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/work/work-Engineering/2022/AI_robotics/Robotic-waste-sorting-project/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/work/work-Engineering/2022/AI_robotics/
 /mnt/c/Users/josia/Desktop/Josiah_Folder/uni/year_3/semester_1/design_elec3404/project/
 /mnt/c/Users/josia/Desktop/Josiah_Folder/uni/year_3/semester_1/design_elec3404/
 /mnt/c/Users/josia/Desktop/Josiah_Folder/work/work-Engineering/2022/cochlear/
