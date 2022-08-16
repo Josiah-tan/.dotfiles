@@ -1,3 +1,11 @@
+/mnt/c/Users/josia/Desktop/Josiah_Folder/UNI/year_3/semester_2/mech/assignment_1/part_B/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/UNI/year_3/semester_2/thermofluids/tutorial_2/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/UNI/year_3/semester_2/mech/assignment_1/part_A/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/UNI/year_3/semester_2/mech/assignment_1/
+/mnt/c/Users/josia/downloads/force_tracking/admittance_based_force_tracking\(based\ on\ a\ paper\ by\ Duan\)/iiwa14_kinematics/
+/mnt/c/Users/josia/downloads/force_tracking/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/steno/
+/mnt/c/Users/josia/Desktop/Josiah_Folder/fun/tox_experimentation/
 /mnt/c/Users/josia/Desktop/Josiah_Folder/UNI/year_3/semester_1/control_amme3500/revision/
 /mnt/c/Users/josia/Desktop/Josiah_Folder/UNI/year_3/semester_1/control_amme3500/
 /mnt/c/Users/josia/Desktop/Josiah_Folder/UNI/year_3/semester_1/manufacturing_mech3660/final-ice-cream-manufacturing/

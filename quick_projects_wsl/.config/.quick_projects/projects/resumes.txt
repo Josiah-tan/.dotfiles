@@ -1,2 +1,5 @@
+/mnt/c/Users/josia/
+/mnt/c/Users/josia/neovim/
+/mnt/c/Users/josia/downloads/
 /mnt/c/Users/josia/Desktop/Josiah_Folder/Work/work-Engineering/2021/resumes/
 /mnt/c/Users/josia/Desktop/Josiah_Folder/Work/work-Engineering/2021/jll/interview/
