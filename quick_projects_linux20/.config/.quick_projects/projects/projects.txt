@@ -1,0 +1,4 @@
+~/.vim/
+~/.config/plover/vim/
+~/.dotfiles/
+~/.config/plover/
