@@ -8,7 +8,11 @@ then
 	git -C /mnt/c/Users/josia/AppData/Local/plover/plover/ pull
 	git -C /mnt/c/Users/josia/AppData/Local/plover/plover/ push
 else
-	echo "yoooo"
+	git -C ~/.config/plover/ status
+	git -C ~/.config/plover/ add *.json
+	git -C ~/.config/plover/ commit -m "automated commit"
+	git -C ~/.config/plover/ pull
+	git -C ~/.config/plover/ push
 fi
 
 

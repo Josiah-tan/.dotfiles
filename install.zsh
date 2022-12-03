@@ -16,7 +16,7 @@ git -C ./plover/.config/plover/ submodule update --init
 git -C ./plover/.config/plover/vim/ submodule update --init
 git -C ./plover/.config/plover/vim/ checkout main
 
-git -C ./plover/.config/plover/vim/plover_python_dictionary_lib submodule update --init
+# git -C ./plover/.config/plover/vim/plover_python_dictionary_lib submodule update --init
 
 stow plover
 
@@ -42,6 +42,11 @@ then
 	stow quick_projects_linux
 fi
 
+## org stuff
+
+git -C ./org/org/submodule update --init
+git -C ./org/org/submodule checkout main
+stow org
 
 ## lsp
 https://github.com/sumneko/lua-language-server/wiki/Build-and-Run	
