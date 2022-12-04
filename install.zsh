@@ -24,7 +24,7 @@ stow plover
 
 if [[ "whoami" -eq "josiah" ]]
 then
-	source ~/plover/.tox/dev/bin/activate && pip install -r ./plover/.config/plover/requirements.txt && deactivate
+	~/plover/.tox/dev/bin/pip3 install -r ~/.dotfiles/plover/.config/plover/requirements.txt
 fi
 
 
