@@ -1,4 +1,6 @@
+~/.config/plover/
 ~/plover/
 ~/.dotfiles/
 ~/.vim/
 ~/org/
+~/Downloads/
