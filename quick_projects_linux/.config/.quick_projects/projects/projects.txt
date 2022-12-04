@@ -1,1 +1,4 @@
+~/plover/
 ~/.dotfiles/
+~/.vim/
+~/org/

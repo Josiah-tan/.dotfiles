@@ -46,7 +46,7 @@ git -C ./org/org/ checkout master
 stow org
 
 ## lsp
-https://github.com/sumneko/lua-language-server/wiki/Build-and-Run	
+https://github.com/sumneko/lua-language-server/wiki/Getting-Started#command-line
 # pylsp
 pip install python-lsp-server
 # pyright
