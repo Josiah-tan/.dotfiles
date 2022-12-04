@@ -22,7 +22,7 @@ stow plover
 
 ## installing dependencies for Plover
 
-if [[ "whoami" -eq "chicken" ]]
+if [[ "whoami" -eq "josiah" ]]
 then
 	source ~/plover/.tox/dev/bin/activate && pip install -r ./plover/.config/plover/requirements.txt && deactivate
 fi
@@ -34,18 +34,15 @@ stow tmux
 
 ## quick projects stuff
 
-if [[ "whoami" -eq "chicken" ]]
-then
-	stow quick_projects_linux20
-elif [[ "whoami" -eq "josiah" ]]
+if [[ "whoami" -eq "josiah" ]]
 then
 	stow quick_projects_linux
 fi
 
 ## org stuff
 
-git -C ./org/org/submodule update --init
-git -C ./org/org/submodule checkout main
+git -C ./org/org/ submodule update --init
+git -C ./org/org/ checkout master
 stow org
 
 ## lsp
