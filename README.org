@@ -5,7 +5,7 @@
 get zsh and oh my zsh first
 * Dependencies
 #+begin_src bash
-sudo apt install ripgrep fd-find ninja-build jq
+sudo apt install ripgrep fd-find ninja-build jq playerctl
 #+end_src
 also need the following:
 - gh

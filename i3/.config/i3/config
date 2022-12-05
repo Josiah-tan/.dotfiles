@@ -190,6 +190,10 @@ exec --no-startup-id i3-msg 'workspace 1; exec firefox; workspace 2; exec gnome-
 # display swapping https://gist.github.com/fbrinker/df9cfbc84511d807f45041737ff3ea02
 bindsym $mod+Shift+s exec ~/i3-display-swap.sh
 
+# https://unix.stackexchange.com/questions/21089/how-to-use-command-line-to-change-volume
 bindsym XF86AudioRaiseVolume exec "amixer set Master 5%+"
 bindsym XF86AudioLowerVolume exec "amixer set Master 5%-"
 bindsym XF86AudioMute exec "amixer set Master toggle"
+
+# https://unix.stackexchange.com/questions/439486/how-can-i-make-media-keys-work-with-i3
+bindsym XF86AudioPlay exec playerctl play-pause
