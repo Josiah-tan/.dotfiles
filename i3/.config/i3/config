@@ -135,6 +135,7 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
 # bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
+# https://unix.stackexchange.com/questions/483934/how-can-i-exit-i3-without-using-a-mouse
 mode "exit: [l]ogout, [r]eboot, [s]hutdown" {
 
   bindsym l exec i3-msg exit
@@ -184,5 +185,11 @@ bar {
         status_command i3status
 }
 
+# startup stuff
 exec --no-startup-id i3-msg 'workspace 1; exec firefox; workspace 2; exec gnome-terminal -e "bash -c \"~/startup.zsh;$SHELL\""'
+# display swapping https://gist.github.com/fbrinker/df9cfbc84511d807f45041737ff3ea02
 bindsym $mod+Shift+s exec ~/i3-display-swap.sh
+
+bindsym XF86AudioRaiseVolume exec "amixer set Master 5%+"
+bindsym XF86AudioLowerVolume exec "amixer set Master 5%-"
+bindsym XF86AudioMute exec "amixer set Master toggle"
