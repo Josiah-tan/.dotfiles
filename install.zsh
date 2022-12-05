@@ -43,6 +43,7 @@ fi
 
 stow i3
 chmod a+x ~/startup.zsh
+chmod a+x ~/i3-display-swap.sh
 
 ## org stuff
 
