@@ -39,6 +39,11 @@ then
 	stow quick_projects_linux
 fi
 
+## i3 stuff
+
+stow i3
+chmod a+x ~/startup.zsh
+
 ## org stuff
 
 git -C ./org/org/ submodule update --init
