@@ -197,3 +197,6 @@ bindsym XF86AudioMute exec "amixer set Master toggle"
 
 # https://unix.stackexchange.com/questions/439486/how-can-i-make-media-keys-work-with-i3
 bindsym XF86AudioPlay exec playerctl play-pause
+
+# wifi manager
+exec --no-startup-id nm-applet 
