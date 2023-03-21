@@ -1,3 +1,4 @@
+~/.config/plover/jeff-phrasing/
 ~/mtrx5700space/src/
 ~/mtrx5700space/src/mtrx5700a2/
 ~/StanfordGantry/
@@ -128,6 +129,7 @@
 ~/.config/i3status/
 ~/.config/plover/
 ~/plover/
+~/.config/plover/steno-dictionaries/
 ~/.dotfiles/
 ~/.vim/
 ~/org/
