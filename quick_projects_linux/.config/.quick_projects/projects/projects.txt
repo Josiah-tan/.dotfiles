@@ -1,3 +1,11 @@
+~/amme5520/project_1/processing_diagram/
+~/robotics-perception-Coursera/image_projection_homography_week_2/
+~/robotics-perception-Coursera/dolly_zoom_week_1/
+~/robotics-perception-Coursera/
+~/mtrx5700space/src/mtrx5700a2/Q3/
+~/mtrx5700space/src/mtrx5700a2/Q2/
+~/amme5520/project_1/
+~/repl-nvim/
 ~/.config/plover/jeff-phrasing/
 ~/mtrx5700space/src/
 ~/mtrx5700space/src/mtrx5700a2/
