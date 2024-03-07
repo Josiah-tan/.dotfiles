@@ -1,1 +1,3 @@
-projects.txt@~/org/
+projects.txt@~/LightField/
+projects.txt@~/lytro/
+projects.txt@~/2023_Modcal_Example/
