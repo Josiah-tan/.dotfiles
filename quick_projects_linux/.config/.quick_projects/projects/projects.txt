@@ -1,3 +1,5 @@
+~/random/
+~/data-structs/bit_sliding_window/
 ~/microsystem/
 ~/data-structs/maxElement/
 ~/data-structs/overflow_experiment/

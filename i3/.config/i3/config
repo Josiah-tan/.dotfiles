@@ -198,7 +198,7 @@ bar {
 }
 
 # startup stuff
-exec --no-startup-id i3-msg 'workspace 1; exec firefox; workspace 2; exec gnome-terminal -e "bash -c \"~/startup.zsh;$SHELL\""'
+exec --no-startup-id i3-msg 'workspace 10; exec firefox; workspace 11; exec gnome-terminal -e "bash -c \"~/startup.zsh;$SHELL\""'
 # display swapping https://gist.github.com/fbrinker/df9cfbc84511d807f45041737ff3ea02
 bindsym $mod+Shift+s exec ~/i3-display-swap.sh
 
