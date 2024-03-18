@@ -1,3 +1,4 @@
+~/.vim/
 ~/random/
 ~/data-structs/bit_sliding_window/
 ~/microsystem/

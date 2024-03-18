@@ -1,10 +1,10 @@
 [submodule "nvim/.vim"]
 	path = nvim/.vim
-	url = https://github.com/Josiah-tan/vimconfig.git
+	url = git@github.com:Josiah-tan/vimconfig.git
 	branch = main
 [submodule "plover/.config/plover"]
 	path = plover/.config/plover
-	url = https://github.com/Josiah-tan/plover_dict.git
+	url = git@github.com:Josiah-tan/plover_dict.git
 	branch = main
 [submodule "nvim/.config/nvim"]
 	path = nvim/.config/nvim
