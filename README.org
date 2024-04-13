@@ -28,3 +28,10 @@ discord → no Qt platform plugin
 ** if plover never reconnects:
  sudo usermod -aG dialout $USER;
 
+** dark theme:
+
+firefox → add-ons and themes → dark
+
+sudo apt install gnome-tweaks
+
+gnome-tweaks
