@@ -22,6 +22,9 @@ run ./install.zsh as repl
 
 * dumb things:
 
+** wifi driver issues:
+use second usb to download wifi files
+
 ** if Debian 10 PyQT5 doesn't work
 discord → no Qt platform plugin 
 
