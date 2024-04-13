@@ -5,7 +5,7 @@
 get zsh and oh my zsh first
 * Dependencies
 #+begin_src bash
-sudo apt install ripgrep fd-find ninja-build jq playerctl
+sudo apt install ripgrep fd-find ninja-build jq playerctl tmux xclip xsel
 #+end_src
 also need the following:
 - gh
@@ -19,3 +19,12 @@ cd .dotfiles
 run ./install.zsh as repl
 # git submodule update --init --recursive
 # git submodule foreach 'git checkout main'
+
+* dumb things:
+
+** if Debian 10 PyQT5 doesn't work
+discord → no Qt platform plugin 
+
+** if plover never reconnects:
+ sudo usermod -aG dialout $USER;
+

@@ -16,6 +16,9 @@ git -C ./plover/.config/plover/ submodule update --init
 git -C ./plover/.config/plover/vim/ submodule update --init
 git -C ./plover/.config/plover/vim/ checkout main
 
+git -C ./plover/.config/plover/Josiah_theory/ checkout main
+git -C ./plover/.config/plover/jeff-phrasing// checkout main
+
 # git -C ./plover/.config/plover/vim/plover_python_dictionary_lib submodule update --init
 
 stow plover
