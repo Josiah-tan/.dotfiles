@@ -38,3 +38,8 @@ firefox → add-ons and themes → dark
 sudo apt install gnome-tweaks
 
 gnome-tweaks
+
+** if reconnect machine not working:
+
+For linux reinstall plover_auto_reconnect_machine using Aerick's fork:2
+https://github.com/aerickt/plover_auto_reconnect_machine
